@@ -5,7 +5,7 @@ Username: UICNA\PCusa
 RunAs User: UICNA\PCusa
 Machine: UIM-LT-SRQ-2186 (Microsoft Windows NT 6.2.9200.0)
 Host Application: C:\Windows\System32\WindowsPowerShell\v1.0\powershell_ise.exe C:\Users\pcusa\Desktop\update guidewire after new guild wire file is in place file.ps1
-Process ID: 8352xxxx
+Process ID: 8352
 **********************
 Transcript started, output file is c:\LogFile.txt
 
