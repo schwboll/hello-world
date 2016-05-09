@@ -1,0 +1,1326 @@
+<?xml version="1.0"?>
+<ArrayOfConnection>
+  <Connection>
+    <DataEntry>
+      <AutomaticRefresh>false</AutomaticRefresh>
+      <ConnectionTypeInfos />
+    </DataEntry>
+    <Events />
+    <MetaInformation>
+      <CustomField1Title />
+      <CustomField2Title />
+      <CustomField3Title />
+      <CustomField4Title />
+      <CustomField5Title />
+    </MetaInformation>
+    <RemoteCommand />
+    <Web />
+    <ConnectionSubType>IE</ConnectionSubType>
+    <ConnectionType>WebBrowser</ConnectionType>
+    <Group>GitHub</Group>
+    <ID>ce6329b6-848f-4b47-836c-cde518226abe</ID>
+    <Name>git</Name>
+    <OpenEmbedded>true</OpenEmbedded>
+    <PinEmbeddedMode>False</PinEmbeddedMode>
+    <Stamp>32af842c-bd59-449f-9428-cc964147df7a</Stamp>
+    <WakeOnLANPort>7</WakeOnLANPort>
+    <WebBrowserApplication>IE</WebBrowserApplication>
+    <WebBrowserUrl>https://github.com/schwboll</WebBrowserUrl>
+  </Connection>
+  <Connection>
+    <Events />
+    <GroupDetails />
+    <MetaInformation>
+      <CustomField1Title />
+      <CustomField2Title />
+      <CustomField3Title />
+      <CustomField4Title />
+      <CustomField5Title />
+    </MetaInformation>
+    <RemoteCommand />
+    <ConnectionType>Group</ConnectionType>
+    <Group>GitHub</Group>
+    <ID>f9bfdcf6-a614-4c7a-b5d1-20d10b900bc0</ID>
+    <Name>GitHub</Name>
+    <OpenEmbedded>true</OpenEmbedded>
+    <Stamp>a0e108e2-afcb-4583-932b-69dc2985e3e5</Stamp>
+  </Connection>
+  <Connection>
+    <Events />
+    <GroupDetails />
+    <MetaInformation>
+      <CustomField1Title />
+      <CustomField2Title />
+      <CustomField3Title />
+      <CustomField4Title />
+      <CustomField5Title />
+    </MetaInformation>
+    <RemoteCommand />
+    <ConnectionType>Group</ConnectionType>
+    <Group>Guidewire Servers  and URLS</Group>
+    <ID>f72579d8-77d6-4a21-949a-9a8fa6c86dc3</ID>
+    <Name>Guidewire Servers  and URLS</Name>
+    <OpenEmbedded>true</OpenEmbedded>
+    <Stamp>24687aca-2f18-458b-a873-611dc2d69e11</Stamp>
+  </Connection>
+  <Connection>
+    <Events />
+    <GroupDetails />
+    <MetaInformation>
+      <CustomField1Title />
+      <CustomField2Title />
+      <CustomField3Title />
+      <CustomField4Title />
+      <CustomField5Title />
+    </MetaInformation>
+    <RemoteCommand />
+    <ConnectionType>Group</ConnectionType>
+    <Group>Guidewire Servers  and URLS\Assembly Servers</Group>
+    <ID>19c44b3a-c0e9-4f43-b826-dff56b4fc39a</ID>
+    <Name>Assembly Servers</Name>
+    <OpenEmbedded>true</OpenEmbedded>
+    <Stamp>81590c7b-c62f-4fb6-9bc0-2c02ca60aed8</Stamp>
+  </Connection>
+  <Connection>
+    <Events />
+    <MetaInformation>
+      <CustomField1Title />
+      <CustomField2Title />
+      <CustomField3Title />
+      <CustomField4Title />
+      <CustomField5Title />
+    </MetaInformation>
+    <RDP>
+      <NetworkLevelAuthentication>true</NetworkLevelAuthentication>
+      <RedirectDirectX>false</RedirectDirectX>
+      <SmartSizingStreched>false</SmartSizingStreched>
+      <VideoPlaybackMode>Disabled</VideoPlaybackMode>
+    </RDP>
+    <RemoteCommand />
+    <ConnectionType>RDPConfigured</ConnectionType>
+    <Group>Guidewire Servers  and URLS\Assembly Servers</Group>
+    <ID>2acc978f-8c80-4dc2-8f6f-6c5aa13376af</ID>
+    <Name>UIMASMCONVER01  10.80.24.149</Name>
+    <OpenEmbedded>true</OpenEmbedded>
+    <PinEmbeddedMode>False</PinEmbeddedMode>
+    <Stamp>ab769b13-c546-4060-b5b4-a8e90c15fe24</Stamp>
+    <Url>UIMASMCONVER01</Url>
+    <UsesSerialPorts>false</UsesSerialPorts>
+    <WakeOnLANPort>7</WakeOnLANPort>
+  </Connection>
+  <Connection>
+    <Events />
+    <MetaInformation>
+      <CustomField1Title />
+      <CustomField2Title />
+      <CustomField3Title />
+      <CustomField4Title />
+      <CustomField5Title />
+    </MetaInformation>
+    <RDP>
+      <NetworkLevelAuthentication>true</NetworkLevelAuthentication>
+      <RedirectDirectX>false</RedirectDirectX>
+      <SmartSizingStreched>false</SmartSizingStreched>
+      <VideoPlaybackMode>Disabled</VideoPlaybackMode>
+    </RDP>
+    <RemoteCommand />
+    <ConnectionType>RDPConfigured</ConnectionType>
+    <Group>Guidewire Servers  and URLS\Assembly Servers</Group>
+    <ID>f498ada4-e7fe-4f7d-85d8-6d674d35f958</ID>
+    <Name>UIMASSEMBLY01 (Tomcat web server) 10.80.24.148</Name>
+    <OpenEmbedded>true</OpenEmbedded>
+    <PinEmbeddedMode>False</PinEmbeddedMode>
+    <Stamp>d59e80f2-e30d-43ba-b80d-06d4b67b1a49</Stamp>
+    <Url>UIMASSEMBLY01</Url>
+    <UsesSerialPorts>false</UsesSerialPorts>
+    <WakeOnLANPort>7</WakeOnLANPort>
+  </Connection>
+  <Connection>
+    <Events />
+    <GroupDetails />
+    <MetaInformation>
+      <CustomField1Title />
+      <CustomField2Title />
+      <CustomField3Title />
+      <CustomField4Title />
+      <CustomField5Title />
+    </MetaInformation>
+    <RemoteCommand />
+    <ConnectionType>Group</ConnectionType>
+    <Group>Guidewire Servers  and URLS\Assembly URLS</Group>
+    <ID>a0c99b37-27f9-4f5b-ac8a-94cea646f530</ID>
+    <Name>Assembly URLS</Name>
+    <OpenEmbedded>true</OpenEmbedded>
+    <Stamp>16572e40-ce6f-4ef2-b03c-f9e0d5dab3af</Stamp>
+  </Connection>
+  <Connection>
+    <DataEntry>
+      <AutomaticRefresh>false</AutomaticRefresh>
+      <ConnectionTypeInfos />
+    </DataEntry>
+    <Events />
+    <MetaInformation>
+      <CustomField1Title />
+      <CustomField2Title />
+      <CustomField3Title />
+      <CustomField4Title />
+      <CustomField5Title />
+    </MetaInformation>
+    <RemoteCommand />
+    <Web />
+    <ConnectionSubType>IE</ConnectionSubType>
+    <ConnectionType>WebBrowser</ConnectionType>
+    <Group>Guidewire Servers  and URLS\Assembly URLS</Group>
+    <ID>d4064c5f-b89a-4823-a798-631c87b3d041</ID>
+    <Name>BillingCenter  UIMASSEMBLY01 http://assembly:8580/bc/BillingCenter.do</Name>
+    <OpenEmbedded>true</OpenEmbedded>
+    <PinEmbeddedMode>False</PinEmbeddedMode>
+    <Stamp>bab91c3e-edd0-4396-97bf-9fce9cd8344a</Stamp>
+    <WakeOnLANPort>7</WakeOnLANPort>
+    <WebBrowserApplication>IE</WebBrowserApplication>
+    <WebBrowserUrl>http://assembly:8580/bc/BillingCenter.do</WebBrowserUrl>
+  </Connection>
+  <Connection>
+    <DataEntry>
+      <AutomaticRefresh>false</AutomaticRefresh>
+      <ConnectionTypeInfos />
+    </DataEntry>
+    <Events />
+    <MetaInformation>
+      <CustomField1Title />
+      <CustomField2Title />
+      <CustomField3Title />
+      <CustomField4Title />
+      <CustomField5Title />
+    </MetaInformation>
+    <RemoteCommand />
+    <Web />
+    <ConnectionSubType>IE</ConnectionSubType>
+    <ConnectionType>WebBrowser</ConnectionType>
+    <Group>Guidewire Servers  and URLS\Assembly URLS</Group>
+    <ID>b83c75c8-70b3-4167-be77-e96e331ffcb0</ID>
+    <Name>BillingCenter UIMASMCONVER01 10.80.24.149 </Name>
+    <OpenEmbedded>true</OpenEmbedded>
+    <PinEmbeddedMode>False</PinEmbeddedMode>
+    <Stamp>f2e82ec4-d13e-4ada-9a93-de9ec391f1f0</Stamp>
+    <WakeOnLANPort>7</WakeOnLANPort>
+    <WebBrowserApplication>IE</WebBrowserApplication>
+    <WebBrowserUrl>http://10.80.24.149:8580/bc/BillingCenter.do</WebBrowserUrl>
+  </Connection>
+  <Connection>
+    <DataEntry>
+      <AutomaticRefresh>false</AutomaticRefresh>
+      <ConnectionTypeInfos />
+    </DataEntry>
+    <Events />
+    <MetaInformation>
+      <CustomField1Title />
+      <CustomField2Title />
+      <CustomField3Title />
+      <CustomField4Title />
+      <CustomField5Title />
+    </MetaInformation>
+    <RemoteCommand />
+    <Web />
+    <ConnectionSubType>IE</ConnectionSubType>
+    <ConnectionType>WebBrowser</ConnectionType>
+    <Group>Guidewire Servers  and URLS\Assembly URLS</Group>
+    <ID>7b0ae03a-fdec-4bf4-8aea-04fb2366132d</ID>
+    <Name>BillingCenter UIMASSEMBLY01 http://10.80.24.148:8580/bc/BillingCenter.do</Name>
+    <OpenEmbedded>true</OpenEmbedded>
+    <PinEmbeddedMode>False</PinEmbeddedMode>
+    <Stamp>ffac86ef-98cc-49d7-b88a-1c3a4e28bc95</Stamp>
+    <WakeOnLANPort>7</WakeOnLANPort>
+    <WebBrowserApplication>IE</WebBrowserApplication>
+    <WebBrowserUrl>http://10.80.24.148:8580/bc/BillingCenter.do</WebBrowserUrl>
+  </Connection>
+  <Connection>
+    <DataEntry>
+      <AutomaticRefresh>false</AutomaticRefresh>
+      <ConnectionTypeInfos />
+    </DataEntry>
+    <Events />
+    <MetaInformation>
+      <CustomField1Title />
+      <CustomField2Title />
+      <CustomField3Title />
+      <CustomField4Title />
+      <CustomField5Title />
+    </MetaInformation>
+    <RemoteCommand />
+    <Web />
+    <ConnectionSubType>IE</ConnectionSubType>
+    <ConnectionType>WebBrowser</ConnectionType>
+    <Group>Guidewire Servers  and URLS\Assembly URLS</Group>
+    <ID>068cc1c1-fea7-46b5-b4b8-c60fbe170151</ID>
+    <Name>Claim Center UIMASSEMBLY01  http://assembly:8080/cc/ClaimCenter.do</Name>
+    <OpenEmbedded>true</OpenEmbedded>
+    <PinEmbeddedMode>False</PinEmbeddedMode>
+    <Stamp>8345cb6c-1994-48a6-89c2-4910add91235</Stamp>
+    <WakeOnLANPort>7</WakeOnLANPort>
+    <WebBrowserApplication>IE</WebBrowserApplication>
+    <WebBrowserUrl>http://assembly:8080/cc/ClaimCenter.do</WebBrowserUrl>
+  </Connection>
+  <Connection>
+    <DataEntry>
+      <AutomaticRefresh>false</AutomaticRefresh>
+      <ConnectionTypeInfos />
+    </DataEntry>
+    <Events />
+    <MetaInformation>
+      <CustomField1Title />
+      <CustomField2Title />
+      <CustomField3Title />
+      <CustomField4Title />
+      <CustomField5Title />
+    </MetaInformation>
+    <RemoteCommand />
+    <Web />
+    <ConnectionSubType>IE</ConnectionSubType>
+    <ConnectionType>WebBrowser</ConnectionType>
+    <Group>Guidewire Servers  and URLS\Assembly URLS</Group>
+    <ID>b42e28db-33a0-490e-8a82-71d720a5f78d</ID>
+    <Name>ClaimCenter UIMASMCONVER01 10.80.24.149</Name>
+    <OpenEmbedded>true</OpenEmbedded>
+    <PinEmbeddedMode>False</PinEmbeddedMode>
+    <Stamp>ca631da5-7c51-48be-856c-3d12f137966f</Stamp>
+    <WakeOnLANPort>7</WakeOnLANPort>
+    <WebBrowserApplication>IE</WebBrowserApplication>
+    <WebBrowserUrl>http://10.80.24.149:8080/cc/ClaimCenter.do</WebBrowserUrl>
+  </Connection>
+  <Connection>
+    <DataEntry>
+      <AutomaticRefresh>false</AutomaticRefresh>
+      <ConnectionTypeInfos />
+    </DataEntry>
+    <Events />
+    <MetaInformation>
+      <CustomField1Title />
+      <CustomField2Title />
+      <CustomField3Title />
+      <CustomField4Title />
+      <CustomField5Title />
+    </MetaInformation>
+    <RemoteCommand />
+    <Web />
+    <ConnectionSubType>IE</ConnectionSubType>
+    <ConnectionType>WebBrowser</ConnectionType>
+    <Group>Guidewire Servers  and URLS\Assembly URLS</Group>
+    <ID>aabed653-f55f-411a-a1ab-214ca2bfc994</ID>
+    <Name>ClaimCenter UIMASSEMBLY01 http://10.80.24.148:8080/cc/ClaimCenter.do</Name>
+    <OpenEmbedded>true</OpenEmbedded>
+    <PinEmbeddedMode>False</PinEmbeddedMode>
+    <Stamp>7617655c-57d2-4ba4-896c-1e4914109d24</Stamp>
+    <WakeOnLANPort>7</WakeOnLANPort>
+    <WebBrowserApplication>IE</WebBrowserApplication>
+    <WebBrowserUrl>http://10.80.24.148:8080/cc/ClaimCenter.do</WebBrowserUrl>
+  </Connection>
+  <Connection>
+    <DataEntry>
+      <AutomaticRefresh>false</AutomaticRefresh>
+      <ConnectionTypeInfos />
+    </DataEntry>
+    <Events />
+    <MetaInformation>
+      <CustomField1Title />
+      <CustomField2Title />
+      <CustomField3Title />
+      <CustomField4Title />
+      <CustomField5Title />
+    </MetaInformation>
+    <RemoteCommand />
+    <Web />
+    <ConnectionSubType>IE</ConnectionSubType>
+    <ConnectionType>WebBrowser</ConnectionType>
+    <Group>Guidewire Servers  and URLS\Assembly URLS</Group>
+    <ID>644aad25-dc85-4947-9d65-00e3621c1037</ID>
+    <Name>ContactManager UIMASMCONVER01 10.80.24.149</Name>
+    <OpenEmbedded>true</OpenEmbedded>
+    <PinEmbeddedMode>False</PinEmbeddedMode>
+    <Stamp>281a2f57-21e0-4f6d-b7e4-09e5f0940a05</Stamp>
+    <WakeOnLANPort>7</WakeOnLANPort>
+    <WebBrowserApplication>IE</WebBrowserApplication>
+    <WebBrowserUrl>http://10.80.24.149:8280/ab/ContactManager.do</WebBrowserUrl>
+  </Connection>
+  <Connection>
+    <DataEntry>
+      <AutomaticRefresh>false</AutomaticRefresh>
+      <ConnectionTypeInfos />
+    </DataEntry>
+    <Events />
+    <MetaInformation>
+      <CustomField1Title />
+      <CustomField2Title />
+      <CustomField3Title />
+      <CustomField4Title />
+      <CustomField5Title />
+    </MetaInformation>
+    <RemoteCommand />
+    <Web />
+    <ConnectionSubType>IE</ConnectionSubType>
+    <ConnectionType>WebBrowser</ConnectionType>
+    <Group>Guidewire Servers  and URLS\Assembly URLS</Group>
+    <ID>f7d1c5ed-66a6-403f-a6b8-2bf572eb7b66</ID>
+    <Name>ContactManager UIMASSEMBLY01 http://10.80.24.148:8280/ab/ContactManager.do</Name>
+    <OpenEmbedded>true</OpenEmbedded>
+    <PinEmbeddedMode>False</PinEmbeddedMode>
+    <Stamp>7daead32-f26c-4931-a175-a08d6cb50ff0</Stamp>
+    <WakeOnLANPort>7</WakeOnLANPort>
+    <WebBrowserApplication>IE</WebBrowserApplication>
+    <WebBrowserUrl>http://10.80.24.148:8280/ab/ContactManager.do</WebBrowserUrl>
+  </Connection>
+  <Connection>
+    <DataEntry>
+      <AutomaticRefresh>false</AutomaticRefresh>
+      <ConnectionTypeInfos />
+    </DataEntry>
+    <Events />
+    <MetaInformation>
+      <CustomField1Title />
+      <CustomField2Title />
+      <CustomField3Title />
+      <CustomField4Title />
+      <CustomField5Title />
+    </MetaInformation>
+    <RemoteCommand />
+    <Web />
+    <ConnectionSubType>IE</ConnectionSubType>
+    <ConnectionType>WebBrowser</ConnectionType>
+    <Group>Guidewire Servers  and URLS\Assembly URLS</Group>
+    <ID>8f8c4383-7e02-4eec-826e-b00952fd9d8d</ID>
+    <Name>ContactManager UIMASSEMBLY01 http://assembly:8280/ab/ContactManager.do</Name>
+    <OpenEmbedded>true</OpenEmbedded>
+    <PinEmbeddedMode>False</PinEmbeddedMode>
+    <Stamp>9f544c18-12e1-4f6c-a4aa-1d688853f22e</Stamp>
+    <WakeOnLANPort>7</WakeOnLANPort>
+    <WebBrowserApplication>IE</WebBrowserApplication>
+    <WebBrowserUrl>http://assembly:8280/ab/ContactManager.do</WebBrowserUrl>
+  </Connection>
+  <Connection>
+    <DataEntry>
+      <AutomaticRefresh>false</AutomaticRefresh>
+      <ConnectionTypeInfos />
+    </DataEntry>
+    <Events />
+    <MetaInformation>
+      <CustomField1Title />
+      <CustomField2Title />
+      <CustomField3Title />
+      <CustomField4Title />
+      <CustomField5Title />
+    </MetaInformation>
+    <RemoteCommand />
+    <Web />
+    <ConnectionSubType>IE</ConnectionSubType>
+    <ConnectionType>WebBrowser</ConnectionType>
+    <Group>Guidewire Servers  and URLS\Assembly URLS</Group>
+    <ID>78a5c0a2-acae-44bb-b3c9-5d7971fc9472</ID>
+    <Name>PolicyCenter UIMASMCONVER01 10.80.24.149</Name>
+    <OpenEmbedded>true</OpenEmbedded>
+    <PinEmbeddedMode>False</PinEmbeddedMode>
+    <Stamp>863dafa5-a539-4f0c-b3fc-9ee3cb9abc51</Stamp>
+    <WakeOnLANPort>7</WakeOnLANPort>
+    <WebBrowserApplication>IE</WebBrowserApplication>
+    <WebBrowserUrl>http://10.80.24.149:8180/pc/PolicyCenter.do</WebBrowserUrl>
+  </Connection>
+  <Connection>
+    <DataEntry>
+      <AutomaticRefresh>false</AutomaticRefresh>
+      <ConnectionTypeInfos />
+    </DataEntry>
+    <Events />
+    <MetaInformation>
+      <CustomField1Title />
+      <CustomField2Title />
+      <CustomField3Title />
+      <CustomField4Title />
+      <CustomField5Title />
+    </MetaInformation>
+    <RemoteCommand />
+    <Web />
+    <ConnectionSubType>IE</ConnectionSubType>
+    <ConnectionType>WebBrowser</ConnectionType>
+    <Group>Guidewire Servers  and URLS\Assembly URLS</Group>
+    <ID>ef9f9f2f-529b-4b5f-a740-9ef6283ca916</ID>
+    <Name>PolicyCenter UIMASSEMBLY01 http://10.80.24.148:8180/pc/PolicyCenter.do</Name>
+    <OpenEmbedded>true</OpenEmbedded>
+    <PinEmbeddedMode>False</PinEmbeddedMode>
+    <Stamp>d930aa65-0cbb-42cf-b6b2-9729537602e6</Stamp>
+    <WakeOnLANPort>7</WakeOnLANPort>
+    <WebBrowserApplication>IE</WebBrowserApplication>
+    <WebBrowserUrl>http://10.80.24.148:8180/pc/PolicyCenter.do</WebBrowserUrl>
+  </Connection>
+  <Connection>
+    <DataEntry>
+      <AutomaticRefresh>false</AutomaticRefresh>
+      <ConnectionTypeInfos />
+    </DataEntry>
+    <Events />
+    <MetaInformation>
+      <CustomField1Title />
+      <CustomField2Title />
+      <CustomField3Title />
+      <CustomField4Title />
+      <CustomField5Title />
+    </MetaInformation>
+    <RemoteCommand />
+    <Web />
+    <ConnectionSubType>IE</ConnectionSubType>
+    <ConnectionType>WebBrowser</ConnectionType>
+    <Group>Guidewire Servers  and URLS\Assembly URLS</Group>
+    <ID>89df0e91-39b8-41f3-b02d-ccebf0d8e2b1</ID>
+    <Name>PolicyCenter UIMASSEMBLY01 http://assembly:8180/pc/PolicyCenter.do</Name>
+    <OpenEmbedded>true</OpenEmbedded>
+    <PinEmbeddedMode>False</PinEmbeddedMode>
+    <Stamp>1764deeb-ce3e-4f9e-a9db-cf4d8fe0fc78</Stamp>
+    <WakeOnLANPort>7</WakeOnLANPort>
+    <WebBrowserApplication>IE</WebBrowserApplication>
+    <WebBrowserUrl>http://assembly:8180/pc/PolicyCenter.do</WebBrowserUrl>
+  </Connection>
+  <Connection>
+    <Events />
+    <GroupDetails />
+    <MetaInformation>
+      <CustomField1Title />
+      <CustomField2Title />
+      <CustomField3Title />
+      <CustomField4Title />
+      <CustomField5Title />
+    </MetaInformation>
+    <RemoteCommand />
+    <ConnectionType>Group</ConnectionType>
+    <Group>Guidewire Servers  and URLS\Demo Server</Group>
+    <ID>ce17e654-6000-44cf-a397-7d07835412b4</ID>
+    <Name>Demo Server</Name>
+    <OpenEmbedded>true</OpenEmbedded>
+    <Stamp>7f402369-6669-45b2-a129-610f37319f7f</Stamp>
+  </Connection>
+  <Connection>
+    <Events />
+    <MetaInformation>
+      <CustomField1Title />
+      <CustomField2Title />
+      <CustomField3Title />
+      <CustomField4Title />
+      <CustomField5Title />
+    </MetaInformation>
+    <RDP>
+      <NetworkLevelAuthentication>true</NetworkLevelAuthentication>
+      <RedirectDirectX>false</RedirectDirectX>
+      <SmartSizingStreched>false</SmartSizingStreched>
+      <VideoPlaybackMode>Disabled</VideoPlaybackMode>
+    </RDP>
+    <RemoteCommand />
+    <ConnectionType>RDPConfigured</ConnectionType>
+    <Group>Guidewire Servers  and URLS\Demo Server</Group>
+    <ID>ecdd7c0e-2da0-422a-b0ac-361b9d62e3d8</ID>
+    <Name>Demo Server (setup with H2 and Jetty) UIMGWDEMO01 10.80.24.147</Name>
+    <OpenEmbedded>true</OpenEmbedded>
+    <PinEmbeddedMode>False</PinEmbeddedMode>
+    <Stamp>98ea263b-80bb-4b62-ba5b-816bbb311800</Stamp>
+    <Url>UIMGWDEMO01</Url>
+    <UsesSerialPorts>false</UsesSerialPorts>
+    <WakeOnLANPort>7</WakeOnLANPort>
+  </Connection>
+  <Connection>
+    <DataEntry>
+      <AutomaticRefresh>false</AutomaticRefresh>
+      <ConnectionTypeInfos />
+    </DataEntry>
+    <Events />
+    <MetaInformation>
+      <CustomField1Title />
+      <CustomField2Title />
+      <CustomField3Title />
+      <CustomField4Title />
+      <CustomField5Title />
+    </MetaInformation>
+    <RemoteCommand />
+    <Web />
+    <ConnectionSubType>IE</ConnectionSubType>
+    <ConnectionType>WebBrowser</ConnectionType>
+    <Group>Guidewire Servers  and URLS\Demo URLS</Group>
+    <ID>5210fbbf-1d43-496d-9c69-a49e1380c582</ID>
+    <Name>BillingCenter Demo UIMGWDEMO01  http://gwdemo:8580/bc</Name>
+    <OpenEmbedded>true</OpenEmbedded>
+    <PinEmbeddedMode>False</PinEmbeddedMode>
+    <Stamp>0dcd919d-afec-4dc3-a973-c6909bcb62c3</Stamp>
+    <WakeOnLANPort>7</WakeOnLANPort>
+    <WebBrowserApplication>IE</WebBrowserApplication>
+    <WebBrowserUrl>http://gwdemo:8580/bc</WebBrowserUrl>
+  </Connection>
+  <Connection>
+    <DataEntry>
+      <AutomaticRefresh>false</AutomaticRefresh>
+      <ConnectionTypeInfos />
+    </DataEntry>
+    <Events />
+    <MetaInformation>
+      <CustomField1Title />
+      <CustomField2Title />
+      <CustomField3Title />
+      <CustomField4Title />
+      <CustomField5Title />
+    </MetaInformation>
+    <RemoteCommand />
+    <Web />
+    <ConnectionSubType>IE</ConnectionSubType>
+    <ConnectionType>WebBrowser</ConnectionType>
+    <Group>Guidewire Servers  and URLS\Demo URLS</Group>
+    <ID>c7871a54-7ce4-41f1-aaa9-9ef4e078d087</ID>
+    <Name>ClaimCenter Demo UIMGWDEMO01 http://gwdemo:8080/cc </Name>
+    <OpenEmbedded>true</OpenEmbedded>
+    <PinEmbeddedMode>False</PinEmbeddedMode>
+    <Stamp>3ef5a75c-a339-4a4d-9d26-c9134d27cee5</Stamp>
+    <WakeOnLANPort>7</WakeOnLANPort>
+    <WebBrowserApplication>IE</WebBrowserApplication>
+    <WebBrowserUrl>http://gwdemo:8080/cc </WebBrowserUrl>
+  </Connection>
+  <Connection>
+    <Events />
+    <GroupDetails />
+    <MetaInformation>
+      <CustomField1Title />
+      <CustomField2Title />
+      <CustomField3Title />
+      <CustomField4Title />
+      <CustomField5Title />
+    </MetaInformation>
+    <RemoteCommand />
+    <ConnectionType>Group</ConnectionType>
+    <Group>Guidewire Servers  and URLS\Demo URLS</Group>
+    <ID>d6c77f12-0d88-4152-9da8-feff426cd710</ID>
+    <Name>Demo URLS</Name>
+    <OpenEmbedded>true</OpenEmbedded>
+    <Stamp>3e1912fe-b287-43dd-8a56-1be458b6de0b</Stamp>
+  </Connection>
+  <Connection>
+    <DataEntry>
+      <AutomaticRefresh>false</AutomaticRefresh>
+      <ConnectionTypeInfos />
+    </DataEntry>
+    <Events />
+    <MetaInformation>
+      <CustomField1Title />
+      <CustomField2Title />
+      <CustomField3Title />
+      <CustomField4Title />
+      <CustomField5Title />
+    </MetaInformation>
+    <RemoteCommand />
+    <Web />
+    <ConnectionSubType>IE</ConnectionSubType>
+    <ConnectionType>WebBrowser</ConnectionType>
+    <Group>Guidewire Servers  and URLS\Demo URLS</Group>
+    <ID>efd168a8-eaca-4306-a880-65f0e51b2d0b</ID>
+    <Name>PolicyCenter Demo UIMGWDEMO01 http://gwdemo:8180/pc</Name>
+    <OpenEmbedded>true</OpenEmbedded>
+    <PinEmbeddedMode>False</PinEmbeddedMode>
+    <Stamp>524f714f-346d-482c-8d25-32d826e65ce1</Stamp>
+    <WakeOnLANPort>7</WakeOnLANPort>
+    <WebBrowserApplication>IE</WebBrowserApplication>
+    <WebBrowserUrl>http://gwdemo:8180/pc</WebBrowserUrl>
+  </Connection>
+  <Connection>
+    <Events />
+    <MetaInformation>
+      <CustomField1Title />
+      <CustomField2Title />
+      <CustomField3Title />
+      <CustomField4Title />
+      <CustomField5Title />
+    </MetaInformation>
+    <RDP>
+      <NetworkLevelAuthentication>true</NetworkLevelAuthentication>
+      <RedirectDirectX>false</RedirectDirectX>
+      <SmartSizingStreched>false</SmartSizingStreched>
+      <VideoPlaybackMode>Disabled</VideoPlaybackMode>
+    </RDP>
+    <RemoteCommand />
+    <ConnectionType>RDPConfigured</ConnectionType>
+    <Group>Guidewire Servers  and URLS\Development Servers</Group>
+    <ID>b3da46e9-d18b-4a85-9758-d8cbe1bf0f7c</ID>
+    <Name>Configuration Server (Build for ASM) UIMDEVCONFIG01 10.80.24.138</Name>
+    <OpenEmbedded>true</OpenEmbedded>
+    <PinEmbeddedMode>False</PinEmbeddedMode>
+    <Stamp>c9d16aeb-6fd0-4014-b787-cf27c652259c</Stamp>
+    <Url>UIMDEVCONFIG01</Url>
+    <UsesSerialPorts>false</UsesSerialPorts>
+    <WakeOnLANPort>7</WakeOnLANPort>
+  </Connection>
+  <Connection>
+    <Events />
+    <MetaInformation>
+      <CustomField1Title />
+      <CustomField2Title />
+      <CustomField3Title />
+      <CustomField4Title />
+      <CustomField5Title />
+    </MetaInformation>
+    <RDP>
+      <NetworkLevelAuthentication>true</NetworkLevelAuthentication>
+      <RedirectDirectX>false</RedirectDirectX>
+      <SmartSizingStreched>false</SmartSizingStreched>
+      <VideoPlaybackMode>Disabled</VideoPlaybackMode>
+    </RDP>
+    <RemoteCommand />
+    <ConnectionType>RDPConfigured</ConnectionType>
+    <Group>Guidewire Servers  and URLS\Development Servers</Group>
+    <ID>31352de9-05d3-4b8f-a173-8e4539ce0ac5</ID>
+    <Name>Conversion Server (Tomcat) UIMDEVCONVER01 10.80.24.141</Name>
+    <OpenEmbedded>true</OpenEmbedded>
+    <PinEmbeddedMode>False</PinEmbeddedMode>
+    <Stamp>98ba755f-b214-4360-8e7a-ebe2b835d64e</Stamp>
+    <Url>UIMDEVCONVER01</Url>
+    <UsesSerialPorts>false</UsesSerialPorts>
+    <WakeOnLANPort>7</WakeOnLANPort>
+  </Connection>
+  <Connection>
+    <Events />
+    <MetaInformation>
+      <CustomField1Title />
+      <CustomField2Title />
+      <CustomField3Title />
+      <CustomField4Title />
+      <CustomField5Title />
+    </MetaInformation>
+    <RDP>
+      <NetworkLevelAuthentication>true</NetworkLevelAuthentication>
+      <RedirectDirectX>false</RedirectDirectX>
+      <SmartSizingStreched>false</SmartSizingStreched>
+      <VideoPlaybackMode>Disabled</VideoPlaybackMode>
+    </RDP>
+    <RemoteCommand />
+    <ConnectionType>RDPConfigured</ConnectionType>
+    <Group>Guidewire Servers  and URLS\Development Servers</Group>
+    <ID>b34ee4fb-edb8-4899-89cb-5f199160e595</ID>
+    <Name>DEV SQL server uimdevgwdb01 10.80.24.140</Name>
+    <OpenEmbedded>true</OpenEmbedded>
+    <PinEmbeddedMode>False</PinEmbeddedMode>
+    <Stamp>deebc584-88ea-4167-bc2c-8b851f8c7887</Stamp>
+    <Url>uimdevgwdb01</Url>
+    <UsesSerialPorts>false</UsesSerialPorts>
+    <WakeOnLANPort>7</WakeOnLANPort>
+  </Connection>
+  <Connection>
+    <Events />
+    <GroupDetails />
+    <MetaInformation>
+      <CustomField1Title />
+      <CustomField2Title />
+      <CustomField3Title />
+      <CustomField4Title />
+      <CustomField5Title />
+    </MetaInformation>
+    <RemoteCommand />
+    <ConnectionType>Group</ConnectionType>
+    <Group>Guidewire Servers  and URLS\Development Servers</Group>
+    <ID>4cf84c5a-c6b1-4da7-88f7-aac44ffd1ba5</ID>
+    <Name>Development Servers</Name>
+    <OpenEmbedded>true</OpenEmbedded>
+    <Stamp>4992b3f9-4db4-48a6-b666-13a0141c6229</Stamp>
+  </Connection>
+  <Connection>
+    <Events />
+    <MetaInformation>
+      <CustomField1Title />
+      <CustomField2Title />
+      <CustomField3Title />
+      <CustomField4Title />
+      <CustomField5Title />
+    </MetaInformation>
+    <RDP>
+      <NetworkLevelAuthentication>true</NetworkLevelAuthentication>
+      <RedirectDirectX>false</RedirectDirectX>
+      <SmartSizingStreched>false</SmartSizingStreched>
+      <VideoPlaybackMode>Disabled</VideoPlaybackMode>
+    </RDP>
+    <RemoteCommand />
+    <ConnectionType>RDPConfigured</ConnectionType>
+    <Group>Guidewire Servers  and URLS\Development Servers</Group>
+    <ID>79507f77-f4cd-4a4b-a6b3-b9cfd9cfc695</ID>
+    <Name>Integration Server (Tomcat) UIMDEVINT01 10.80.24.139</Name>
+    <OpenEmbedded>true</OpenEmbedded>
+    <PinEmbeddedMode>False</PinEmbeddedMode>
+    <Stamp>2eeed2d6-9c64-4bc1-be08-be1dbe86a8d4</Stamp>
+    <Url>UIMDEVINT01</Url>
+    <UsesSerialPorts>false</UsesSerialPorts>
+    <WakeOnLANPort>7</WakeOnLANPort>
+  </Connection>
+  <Connection>
+    <Events />
+    <GroupDetails />
+    <MetaInformation>
+      <CustomField1Title />
+      <CustomField2Title />
+      <CustomField3Title />
+      <CustomField4Title />
+      <CustomField5Title />
+    </MetaInformation>
+    <RemoteCommand />
+    <ConnectionType>Group</ConnectionType>
+    <Group>Guidewire Servers  and URLS\Development URLS</Group>
+    <ID>569f1a6b-90c6-4eaa-b109-6ec0b4a5b25a</ID>
+    <Name>Development URLS</Name>
+    <OpenEmbedded>true</OpenEmbedded>
+    <Stamp>78e25a55-e13c-4ccd-8b48-ec73d5f45ac9</Stamp>
+  </Connection>
+  <Connection>
+    <DataEntry>
+      <AutomaticRefresh>false</AutomaticRefresh>
+      <ConnectionTypeInfos />
+    </DataEntry>
+    <Events />
+    <MetaInformation>
+      <CustomField1Title />
+      <CustomField2Title />
+      <CustomField3Title />
+      <CustomField4Title />
+      <CustomField5Title />
+    </MetaInformation>
+    <RemoteCommand />
+    <Web />
+    <ConnectionSubType>IE</ConnectionSubType>
+    <ConnectionType>WebBrowser</ConnectionType>
+    <Group>Guidewire Servers  and URLS\Local GW URLS</Group>
+    <ID>f5ed8d1d-e3d6-43e2-b276-68595e43aeb3</ID>
+    <Name>Local GW BillingCenter</Name>
+    <OpenEmbedded>true</OpenEmbedded>
+    <PinEmbeddedMode>False</PinEmbeddedMode>
+    <Stamp>31ff641b-0834-406c-b4b0-5908f55a9ccd</Stamp>
+    <WakeOnLANPort>7</WakeOnLANPort>
+    <WebBrowserApplication>IE</WebBrowserApplication>
+    <WebBrowserUrl>http://localhost:8580/bc/BillingCenter.do</WebBrowserUrl>
+  </Connection>
+  <Connection>
+    <DataEntry>
+      <AutomaticRefresh>false</AutomaticRefresh>
+      <ConnectionTypeInfos />
+    </DataEntry>
+    <Events />
+    <MetaInformation>
+      <CustomField1Title />
+      <CustomField2Title />
+      <CustomField3Title />
+      <CustomField4Title />
+      <CustomField5Title />
+    </MetaInformation>
+    <RemoteCommand />
+    <Web />
+    <ConnectionSubType>IE</ConnectionSubType>
+    <ConnectionType>WebBrowser</ConnectionType>
+    <Group>Guidewire Servers  and URLS\Local GW URLS</Group>
+    <ID>59eb69ea-4012-42f4-85d6-0d9b122ab073</ID>
+    <Name>Local GW ClaimCenter</Name>
+    <OpenEmbedded>true</OpenEmbedded>
+    <PinEmbeddedMode>False</PinEmbeddedMode>
+    <Stamp>d40df60f-6c3c-45e4-919f-f49cd43a6498</Stamp>
+    <WakeOnLANPort>7</WakeOnLANPort>
+    <WebBrowserApplication>IE</WebBrowserApplication>
+    <WebBrowserUrl>http://localhost:8080/cc/ClaimCenter.do</WebBrowserUrl>
+  </Connection>
+  <Connection>
+    <DataEntry>
+      <AutomaticRefresh>false</AutomaticRefresh>
+      <ConnectionTypeInfos />
+    </DataEntry>
+    <Events />
+    <MetaInformation>
+      <CustomField1Title />
+      <CustomField2Title />
+      <CustomField3Title />
+      <CustomField4Title />
+      <CustomField5Title />
+    </MetaInformation>
+    <RemoteCommand />
+    <Web />
+    <ConnectionSubType>IE</ConnectionSubType>
+    <ConnectionType>WebBrowser</ConnectionType>
+    <Group>Guidewire Servers  and URLS\Local GW URLS</Group>
+    <ID>081dd367-1315-4d56-a300-cecf189e932d</ID>
+    <Name>Local GW ContactManager</Name>
+    <OpenEmbedded>true</OpenEmbedded>
+    <PinEmbeddedMode>False</PinEmbeddedMode>
+    <Stamp>0585a53b-706d-4cb5-ad87-23752295f0c3</Stamp>
+    <WakeOnLANPort>7</WakeOnLANPort>
+    <WebBrowserApplication>IE</WebBrowserApplication>
+    <WebBrowserUrl>http://localhost:8280/ab/ContactManager.do</WebBrowserUrl>
+  </Connection>
+  <Connection>
+    <DataEntry>
+      <AutomaticRefresh>false</AutomaticRefresh>
+      <ConnectionTypeInfos />
+    </DataEntry>
+    <Events />
+    <MetaInformation>
+      <CustomField1Title />
+      <CustomField2Title />
+      <CustomField3Title />
+      <CustomField4Title />
+      <CustomField5Title />
+    </MetaInformation>
+    <RemoteCommand />
+    <Web />
+    <ConnectionSubType>IE</ConnectionSubType>
+    <ConnectionType>WebBrowser</ConnectionType>
+    <Group>Guidewire Servers  and URLS\Local GW URLS</Group>
+    <ID>d9f2d971-790b-437c-939b-9731a65239bf</ID>
+    <Name>Local GW PolicyCenter</Name>
+    <OpenEmbedded>true</OpenEmbedded>
+    <PinEmbeddedMode>False</PinEmbeddedMode>
+    <Stamp>6aad289c-cb06-4833-8ca1-57bf1efeb097</Stamp>
+    <WakeOnLANPort>7</WakeOnLANPort>
+    <WebBrowserApplication>IE</WebBrowserApplication>
+    <WebBrowserUrl>http://localhost:8180/pc/PolicyCenter.do</WebBrowserUrl>
+  </Connection>
+  <Connection>
+    <Events />
+    <GroupDetails />
+    <MetaInformation>
+      <CustomField1Title />
+      <CustomField2Title />
+      <CustomField3Title />
+      <CustomField4Title />
+      <CustomField5Title />
+    </MetaInformation>
+    <RemoteCommand />
+    <ConnectionType>Group</ConnectionType>
+    <Group>Guidewire Servers  and URLS\Local GW URLS</Group>
+    <ID>f4892633-4a4a-43d3-a257-ffdd0569b131</ID>
+    <Name>Local GW URLS</Name>
+    <OpenEmbedded>true</OpenEmbedded>
+    <Stamp>56e23169-e45b-42e6-a43b-e18ad1477b16</Stamp>
+  </Connection>
+  <Connection>
+    <Events />
+    <GroupDetails />
+    <MetaInformation>
+      <CustomField1Title />
+      <CustomField2Title />
+      <CustomField3Title />
+      <CustomField4Title />
+      <CustomField5Title />
+    </MetaInformation>
+    <RemoteCommand />
+    <ConnectionType>Group</ConnectionType>
+    <Group>Guidewire Servers  and URLS\Production Servers</Group>
+    <ID>7bdc24e9-cbbe-4794-b414-39431e801373</ID>
+    <Name>Production Servers</Name>
+    <OpenEmbedded>true</OpenEmbedded>
+    <Stamp>5b4b4c97-9e13-475c-a61f-3fc92c7a048e</Stamp>
+  </Connection>
+  <Connection>
+    <Events />
+    <GroupDetails />
+    <MetaInformation>
+      <CustomField1Title />
+      <CustomField2Title />
+      <CustomField3Title />
+      <CustomField4Title />
+      <CustomField5Title />
+    </MetaInformation>
+    <RemoteCommand />
+    <ConnectionType>Group</ConnectionType>
+    <Group>Guidewire Servers  and URLS\Production URLS</Group>
+    <ID>644de3f8-74de-43ee-9dec-49b1dcf99695</ID>
+    <Name>Production URLS</Name>
+    <OpenEmbedded>true</OpenEmbedded>
+    <Stamp>6c7381ab-b3b0-432c-bf09-c3d36b0000dc</Stamp>
+  </Connection>
+  <Connection>
+    <Events />
+    <GroupDetails />
+    <MetaInformation>
+      <CustomField1Title />
+      <CustomField2Title />
+      <CustomField3Title />
+      <CustomField4Title />
+      <CustomField5Title />
+    </MetaInformation>
+    <RemoteCommand />
+    <ConnectionType>Group</ConnectionType>
+    <Group>Jenkins</Group>
+    <ID>c74e3911-3ec7-4ed5-899a-2386d3dac7bd</ID>
+    <Name>Jenkins</Name>
+    <OpenEmbedded>true</OpenEmbedded>
+    <Stamp>6d44ecd2-95c5-4662-b39c-34c60eef78f6</Stamp>
+  </Connection>
+  <Connection>
+    <Events />
+    <GroupDetails />
+    <MetaInformation>
+      <CustomField1Title />
+      <CustomField2Title />
+      <CustomField3Title />
+      <CustomField4Title />
+      <CustomField5Title />
+    </MetaInformation>
+    <RemoteCommand />
+    <ConnectionType>Group</ConnectionType>
+    <Group>Jenkins\Servers</Group>
+    <ID>cc1ea439-a1e3-4ac7-92c4-12f626784a11</ID>
+    <Name>Servers</Name>
+    <OpenEmbedded>true</OpenEmbedded>
+    <Stamp>833dd609-a8ec-4cc8-b64e-cb82dd7e2531</Stamp>
+  </Connection>
+  <Connection>
+    <Events />
+    <MetaInformation>
+      <CustomField1Title />
+      <CustomField2Title />
+      <CustomField3Title />
+      <CustomField4Title />
+      <CustomField5Title />
+    </MetaInformation>
+    <RDP>
+      <NetworkLevelAuthentication>true</NetworkLevelAuthentication>
+      <RedirectDirectX>false</RedirectDirectX>
+      <SmartSizingStreched>false</SmartSizingStreched>
+      <VideoPlaybackMode>Disabled</VideoPlaybackMode>
+    </RDP>
+    <RemoteCommand />
+    <ConnectionType>RDPConfigured</ConnectionType>
+    <Group>Jenkins\Servers</Group>
+    <ID>9a5834b6-9367-4e42-a69c-f24d7fec3f52</ID>
+    <Name>Test Jenkinstest01</Name>
+    <OpenEmbedded>true</OpenEmbedded>
+    <PinEmbeddedMode>False</PinEmbeddedMode>
+    <Stamp>c1399b0c-b721-48fe-8234-4b7b88c8dd1d</Stamp>
+    <Url>Jenkinstest01</Url>
+    <UsesSerialPorts>false</UsesSerialPorts>
+    <WakeOnLANPort>7</WakeOnLANPort>
+  </Connection>
+  <Connection>
+    <Events />
+    <MetaInformation>
+      <CustomField1Title />
+      <CustomField2Title />
+      <CustomField3Title />
+      <CustomField4Title />
+      <CustomField5Title />
+    </MetaInformation>
+    <RDP>
+      <NetworkLevelAuthentication>true</NetworkLevelAuthentication>
+      <RedirectDirectX>false</RedirectDirectX>
+      <SmartSizingStreched>false</SmartSizingStreched>
+      <VideoPlaybackMode>Disabled</VideoPlaybackMode>
+    </RDP>
+    <RemoteCommand />
+    <ConnectionType>RDPConfigured</ConnectionType>
+    <Group>Jenkins\Servers</Group>
+    <ID>df9ec19e-345b-4210-b978-d218ee0a8ef3</ID>
+    <Name>Test Jenkinstest02</Name>
+    <OpenEmbedded>true</OpenEmbedded>
+    <PinEmbeddedMode>False</PinEmbeddedMode>
+    <Stamp>d2086e14-3c82-4c0e-9f46-c71240c9449d</Stamp>
+    <Url>Jenkinstest02</Url>
+    <UsesSerialPorts>false</UsesSerialPorts>
+    <WakeOnLANPort>7</WakeOnLANPort>
+  </Connection>
+  <Connection>
+    <DataEntry>
+      <AutomaticRefresh>false</AutomaticRefresh>
+      <ConnectionTypeInfos />
+    </DataEntry>
+    <Events />
+    <MetaInformation>
+      <CustomField1Title />
+      <CustomField2Title />
+      <CustomField3Title />
+      <CustomField4Title />
+      <CustomField5Title />
+    </MetaInformation>
+    <RemoteCommand />
+    <Web />
+    <ConnectionSubType>IE</ConnectionSubType>
+    <ConnectionType>WebBrowser</ConnectionType>
+    <Group>Jenkins\URLS</Group>
+    <ID>3d2ca5f8-bc14-40a8-b37c-15d1d00c570b</ID>
+    <Name>Local Host Jenkins</Name>
+    <OpenEmbedded>true</OpenEmbedded>
+    <PinEmbeddedMode>False</PinEmbeddedMode>
+    <Stamp>5a3293e8-65c7-46dd-bfa6-3405a03d8993</Stamp>
+    <WakeOnLANPort>7</WakeOnLANPort>
+    <WebBrowserApplication>IE</WebBrowserApplication>
+    <WebBrowserUrl>http://localhost:8080/</WebBrowserUrl>
+  </Connection>
+  <Connection>
+    <Events />
+    <GroupDetails />
+    <MetaInformation>
+      <CustomField1Title />
+      <CustomField2Title />
+      <CustomField3Title />
+      <CustomField4Title />
+      <CustomField5Title />
+    </MetaInformation>
+    <RemoteCommand />
+    <ConnectionType>Group</ConnectionType>
+    <Group>Jenkins\URLS</Group>
+    <ID>d5d20476-d200-4c79-800b-28ebd02057cb</ID>
+    <Name>URLS</Name>
+    <OpenEmbedded>true</OpenEmbedded>
+    <Stamp>24abe09c-a207-4e0f-9108-1980374b93f9</Stamp>
+  </Connection>
+  <Connection>
+    <Events />
+    <GroupDetails />
+    <MetaInformation>
+      <CustomField1Title />
+      <CustomField2Title />
+      <CustomField3Title />
+      <CustomField4Title />
+      <CustomField5Title />
+    </MetaInformation>
+    <RemoteCommand />
+    <ConnectionType>Group</ConnectionType>
+    <Group>My Universal</Group>
+    <ID>70f2af78-5805-4d16-97d1-3401fce7d49d</ID>
+    <Name>My Universal</Name>
+    <OpenEmbedded>true</OpenEmbedded>
+    <Stamp>fca4da92-ccb9-4b2a-aa1c-6d722042e6b4</Stamp>
+  </Connection>
+  <Connection>
+    <DataEntry>
+      <AutomaticRefresh>false</AutomaticRefresh>
+      <ConnectionTypeInfos />
+    </DataEntry>
+    <Events />
+    <MetaInformation>
+      <CustomField1Title />
+      <CustomField2Title />
+      <CustomField3Title />
+      <CustomField4Title />
+      <CustomField5Title />
+    </MetaInformation>
+    <RemoteCommand />
+    <Web />
+    <ConnectionSubType>IE</ConnectionSubType>
+    <ConnectionType>WebBrowser</ConnectionType>
+    <Group>My Universal\URLS</Group>
+    <ID>42bc2374-656c-47fd-a46f-2e67ad1f807a</ID>
+    <Name>My Universal PRD</Name>
+    <OpenEmbedded>true</OpenEmbedded>
+    <PinEmbeddedMode>False</PinEmbeddedMode>
+    <Stamp>846f4182-28bd-4b78-a4bb-0c6c079023d8</Stamp>
+    <WakeOnLANPort>7</WakeOnLANPort>
+    <WebBrowserApplication>IE</WebBrowserApplication>
+    <WebBrowserUrl>www.uihna.com</WebBrowserUrl>
+  </Connection>
+  <Connection>
+    <DataEntry>
+      <AutomaticRefresh>false</AutomaticRefresh>
+      <ConnectionTypeInfos />
+    </DataEntry>
+    <Events />
+    <MetaInformation>
+      <CustomField1Title />
+      <CustomField2Title />
+      <CustomField3Title />
+      <CustomField4Title />
+      <CustomField5Title />
+    </MetaInformation>
+    <RemoteCommand />
+    <Web />
+    <ConnectionSubType>IE</ConnectionSubType>
+    <ConnectionType>WebBrowser</ConnectionType>
+    <Group>My Universal\URLS</Group>
+    <ID>ebcf379b-167e-4e1a-8acd-d3661ff9f547</ID>
+    <Name>My Universal QA</Name>
+    <OpenEmbedded>true</OpenEmbedded>
+    <PinEmbeddedMode>False</PinEmbeddedMode>
+    <Stamp>8fe1cab9-fe10-4f9a-93bd-ba37b925db63</Stamp>
+    <WakeOnLANPort>7</WakeOnLANPort>
+    <WebBrowserApplication>IE</WebBrowserApplication>
+    <WebBrowserUrl>http://qa01.uihna.com/en-US/</WebBrowserUrl>
+  </Connection>
+  <Connection>
+    <DataEntry>
+      <AutomaticRefresh>false</AutomaticRefresh>
+      <ConnectionTypeInfos />
+    </DataEntry>
+    <Events />
+    <MetaInformation>
+      <CustomField1Title />
+      <CustomField2Title />
+      <CustomField3Title />
+      <CustomField4Title />
+      <CustomField5Title />
+    </MetaInformation>
+    <RemoteCommand />
+    <Web />
+    <ConnectionSubType>IE</ConnectionSubType>
+    <ConnectionType>WebBrowser</ConnectionType>
+    <Group>My Universal\URLS</Group>
+    <ID>82c8e2ad-bf12-40fb-bd1f-1937c01ec317</ID>
+    <Name>My Universal TRN</Name>
+    <OpenEmbedded>true</OpenEmbedded>
+    <PinEmbeddedMode>False</PinEmbeddedMode>
+    <Stamp>f874c111-7829-4226-9954-74f6ce46a104</Stamp>
+    <WakeOnLANPort>7</WakeOnLANPort>
+    <WebBrowserApplication>IE</WebBrowserApplication>
+    <WebBrowserUrl>https://train01.uihna.com/en-US/</WebBrowserUrl>
+  </Connection>
+  <Connection>
+    <Events />
+    <GroupDetails />
+    <MetaInformation>
+      <CustomField1Title />
+      <CustomField2Title />
+      <CustomField3Title />
+      <CustomField4Title />
+      <CustomField5Title />
+    </MetaInformation>
+    <RemoteCommand />
+    <ConnectionType>Group</ConnectionType>
+    <Group>My Universal\URLS</Group>
+    <ID>8976318f-268a-47a4-88b7-b8f8ee1609e8</ID>
+    <Name>URLS</Name>
+    <OpenEmbedded>true</OpenEmbedded>
+    <Stamp>754ca3f4-865d-4107-9c4c-356fcb69e9fe</Stamp>
+  </Connection>
+  <Connection>
+    <Events />
+    <GroupDetails />
+    <MetaInformation>
+      <CustomField1Title />
+      <CustomField2Title />
+      <CustomField3Title />
+      <CustomField4Title />
+      <CustomField5Title />
+    </MetaInformation>
+    <RemoteCommand />
+    <ConnectionType>Group</ConnectionType>
+    <Group>URLS</Group>
+    <ID>0736aa80-cac5-4fe3-b5be-5c54bb16c89d</ID>
+    <Name>URLS</Name>
+    <OpenEmbedded>true</OpenEmbedded>
+    <Stamp>5c7c7632-11b7-45cf-b145-ebc4f3e2d212</Stamp>
+  </Connection>
+  <Connection>
+    <DataEntry>
+      <AutomaticRefresh>false</AutomaticRefresh>
+      <ConnectionTypeInfos />
+    </DataEntry>
+    <Events />
+    <MetaInformation>
+      <CustomField1Title />
+      <CustomField2Title />
+      <CustomField3Title />
+      <CustomField4Title />
+      <CustomField5Title />
+    </MetaInformation>
+    <RemoteCommand />
+    <Web />
+    <ConnectionSubType>IE</ConnectionSubType>
+    <ConnectionType>WebBrowser</ConnectionType>
+    <Group>URLS\Company</Group>
+    <ID>2273273f-5cdb-4c63-bbfb-c7c9fd416d22</ID>
+    <Name>Adp Portal</Name>
+    <OpenEmbedded>true</OpenEmbedded>
+    <PinEmbeddedMode>False</PinEmbeddedMode>
+    <Stamp>734b32d1-68d8-4a0b-bec1-ba16d94fcadb</Stamp>
+    <WakeOnLANPort>7</WakeOnLANPort>
+    <WebBrowserApplication>IE</WebBrowserApplication>
+    <WebBrowserUrl>https://portal.adp.com/public/index.htm</WebBrowserUrl>
+  </Connection>
+  <Connection>
+    <DataEntry>
+      <AutomaticRefresh>false</AutomaticRefresh>
+      <ConnectionTypeInfos />
+    </DataEntry>
+    <Events />
+    <MetaInformation>
+      <CustomField1Title />
+      <CustomField2Title />
+      <CustomField3Title />
+      <CustomField4Title />
+      <CustomField5Title />
+    </MetaInformation>
+    <RemoteCommand />
+    <Web />
+    <ConnectionSubType>IE</ConnectionSubType>
+    <ConnectionType>WebBrowser</ConnectionType>
+    <Group>URLS\Company</Group>
+    <ID>403fa6dd-e792-47d9-8a8c-d03415eb2916</ID>
+    <Name>Citrix external</Name>
+    <OpenEmbedded>true</OpenEmbedded>
+    <PinEmbeddedMode>False</PinEmbeddedMode>
+    <Stamp>37d654c7-b73c-4f7c-9f14-ea1234e06da9</Stamp>
+    <WakeOnLANPort>7</WakeOnLANPort>
+    <WebBrowserApplication>IE</WebBrowserApplication>
+    <WebBrowserUrl>https://portal.isg.cgipdc.com</WebBrowserUrl>
+  </Connection>
+  <Connection>
+    <DataEntry>
+      <AutomaticRefresh>false</AutomaticRefresh>
+      <ConnectionTypeInfos />
+    </DataEntry>
+    <Events />
+    <MetaInformation>
+      <CustomField1Title />
+      <CustomField2Title />
+      <CustomField3Title />
+      <CustomField4Title />
+      <CustomField5Title />
+    </MetaInformation>
+    <RemoteCommand />
+    <Web />
+    <ConnectionSubType>IE</ConnectionSubType>
+    <ConnectionType>WebBrowser</ConnectionType>
+    <Group>URLS\Company</Group>
+    <ID>ac49d49d-0c37-46fa-99c9-3121af560c87</ID>
+    <Name>Citrix Internal </Name>
+    <OpenEmbedded>true</OpenEmbedded>
+    <PinEmbeddedMode>False</PinEmbeddedMode>
+    <Stamp>fc9b03b7-726a-4b87-85fd-3b4751d663b2</Stamp>
+    <WakeOnLANPort>7</WakeOnLANPort>
+    <WebBrowserApplication>IE</WebBrowserApplication>
+    <WebBrowserUrl>https://cgiclientportal/Citrix/XenApp/auth/login.aspx</WebBrowserUrl>
+  </Connection>
+  <Connection>
+    <Events />
+    <GroupDetails />
+    <MetaInformation>
+      <CustomField1Title />
+      <CustomField2Title />
+      <CustomField3Title />
+      <CustomField4Title />
+      <CustomField5Title />
+    </MetaInformation>
+    <RemoteCommand />
+    <ConnectionType>Group</ConnectionType>
+    <Group>URLS\Company</Group>
+    <ID>26248a07-2e4f-4463-9dd2-eef2089730c4</ID>
+    <Name>Company</Name>
+    <OpenEmbedded>true</OpenEmbedded>
+    <Stamp>4a09c8b2-06fb-4be0-b80a-855b018384a5</Stamp>
+  </Connection>
+  <Connection>
+    <DataEntry>
+      <AutomaticRefresh>false</AutomaticRefresh>
+      <ConnectionTypeInfos />
+    </DataEntry>
+    <Events />
+    <MetaInformation>
+      <CustomField1Title />
+      <CustomField2Title />
+      <CustomField3Title />
+      <CustomField4Title />
+      <CustomField5Title />
+    </MetaInformation>
+    <RemoteCommand />
+    <Web />
+    <ConnectionSubType>IE</ConnectionSubType>
+    <ConnectionType>WebBrowser</ConnectionType>
+    <Group>URLS\Company</Group>
+    <ID>d01a500b-7074-46de-a0ba-4bcf270e11eb</ID>
+    <Name>FOGBUGZ: Current tool used to track tickets and projects</Name>
+    <OpenEmbedded>true</OpenEmbedded>
+    <PinEmbeddedMode>False</PinEmbeddedMode>
+    <Stamp>4358f808-69ae-42e8-aa7b-3dcd397922f3</Stamp>
+    <WakeOnLANPort>7</WakeOnLANPort>
+    <WebBrowserApplication>IE</WebBrowserApplication>
+    <WebBrowserUrl>https://fogbugz.uihna.com/</WebBrowserUrl>
+  </Connection>
+</ArrayOfConnection>
